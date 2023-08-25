@@ -1,6 +1,8 @@
 # jenkins_pipeline_script
 # 03_03 Run scripts from the pipeline
 
+[![Build Status](http://15.156.234.231/buildStatus/icon?job=challenge_pipeline)](http://15.156.234.231/me/my-views/view/all/job/challenge_pipeline/)
+
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
 ## Pipeline steps for calling scripts
